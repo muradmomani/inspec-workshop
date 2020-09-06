@@ -1,0 +1,10 @@
+name: inspec-workshop
+title: InSpec Profile
+maintainer: Murad
+copyright: Murad
+copyright_email: murad.almomani12@gmail.com
+license: Apache-2.0
+summary: An InSpec Compliance Profile
+version: 0.1.0
+supports:
+  platform: os
